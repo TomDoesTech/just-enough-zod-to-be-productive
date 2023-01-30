@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "1": "tsx watch 1-basics.ts",
+    "2": "tsx watch 2-parsing.ts",
+    "3": "tsx watch 3-refine.ts",
+    "4": "tsx watch 4-enums.ts"
+  },
+  "dependencies": {
+    "joi": "^17.7.0",
+    "yup": "^0.32.11",
+    "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  }
+}

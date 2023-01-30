@@ -1,0 +1,16 @@
+{
+  "name": "load-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "tomanagle",
+  "license": "ISC",
+  "dependencies": {
+    "mitata": "^0.1.6"
+  }
+}
